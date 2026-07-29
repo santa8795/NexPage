@@ -31,7 +31,7 @@ function Hero() {
         {/* Call to Action (CTA) Buttons */}
         <div className="mt-8 sm:mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6">
           <Link
-            to="/signup"
+            to="/contact"
             className="relative w-full sm:w-auto inline-block bg-[#3378ff] hover:bg-[#1f62e6] text-white font-semibold px-8 py-3.5 rounded-md shadow-lg shadow-[#3378ff]/30 hover:shadow-2xl hover:shadow-[#3378ff]/60 hover:-translate-y-1.5 hover:scale-105 transition-all duration-300 ease-out text-base sm:text-[16px] active:scale-95 active:translate-y-0 cursor-pointer border border-transparent hover:border-blue-300/40"
           >
             Start Free Trial
